@@ -1,0 +1,10 @@
+Instrucciones para utilizar el GameStore con Expo:
+
+1-instalar aplicacion Expo en tu dispositivo movil
+2- Abrir una terminal direccionada en la carpeta del proyecto
+2-usar comando npm install -g npx
+3-usar comando npm install dotenv
+4-usar comando npm install react-native-gesture-handler
+4-usar comando npx expo start
+5-Utilizar el dispositivo movil con Expo instalado para escanear el
+codigo QR generado por la terminal.
